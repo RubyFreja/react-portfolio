@@ -25,8 +25,5 @@ src/assets/images/logo-lines.svg
 *.svg
 *.json
 *.png
-*.woff2
-*.woff
-*.ttf
 src/assets/images/logo-r
 README.md
