@@ -2,7 +2,7 @@ import './index.scss'
 import AnimatedLetters from '../AnimatedLetters'
 import { useEffect, useState } from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faAngular, faGitAlt, faJsSquare, faHtml5, faCss3, faReact } from '@fortawesome/free-brands-svg-icons'
+import { faAngular, faGitAlt, faJsSquare, faHtml5, faCss3, faReact, faPython, faGithub } from '@fortawesome/free-brands-svg-icons'
 import { Loader } from 'react-loaders'
 
 const About = () => {
@@ -40,7 +40,7 @@ const About = () => {
             <div className='stage-cube-cont'>
                 <div className='cubespinner'>
                     <div className='face1'>
-                        <FontAwesomeIcon icon={faAngular} color="#DD0031"/>
+                        <FontAwesomeIcon icon={faPython} color="#DD0031"/>
                     </div>
                     <div className='face2'>
                         <FontAwesomeIcon icon={faHtml5} color="#F06529"/>
@@ -55,7 +55,7 @@ const About = () => {
                         <FontAwesomeIcon icon={faJsSquare} color="#EFD81D"/>
                     </div>
                     <div className='face6'>
-                        <FontAwesomeIcon icon={faGitAlt} color="#EC4D28"/>
+                        <FontAwesomeIcon icon={faGithub} color="#EC4D28"/>
                     </div>
                 </div>  
             </div>
