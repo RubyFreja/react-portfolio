@@ -37,12 +37,12 @@ const Contact = () => {
                         <h1>
                             <AnimatedLetters
                                 letterClass={letterClass}
-                                strArray={"Contact Info".split("")}
+                                strArray={"Contact me".split("")}
                                 idx={15}
                             />
                         </h1>
                         <p>
-                            hi
+                            
                         </p>
                         <div className='contact-form'>
                             <form ref={refForm} onSubmit={sendEmail}>
