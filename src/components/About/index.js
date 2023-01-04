@@ -27,7 +27,7 @@ const About = () => {
                     />
                 </h1>
                 <p>
-                    Hi, I'm Ruby. I've recently finished my studies at King's College London and expecting to graduate with a 2:1 Msci degree in Theoretical Physics once my award is ratified.
+                    Hi, I'm Ruby. I've recently finished my studies at King's College London and have been awared a upper second class Msci in Physics with Theoretical Physics.
                 </p>
                 <p>
                     During my studies, I took some modules and projects that involved coding. I found that I enjoyed these modules and the process of writing the code for each of these, and thus sparked my aspirations to become a developer.
